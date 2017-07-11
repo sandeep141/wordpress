@@ -1,0 +1,9 @@
+Hello,
+Many of wordpress users find difficult to send e-mails to users by using server mail id. Like for regstraion verfication link, welocme email etc. By default wordpress php mailer all mail goes to spams. 
+So how to setup the mail configuration in wordpress.
+
+Step 1 - Create a server mail id on your hosting like godaddy, bluehost. 
+1.a -> After creating the id, go to mail configuration (settings) in your cpanel , there you will see outgoing mail configuration SMTP settings.
+1.b -> Copy the Outgoing server name, port, username and password in atext file.
+
+Step-> 
